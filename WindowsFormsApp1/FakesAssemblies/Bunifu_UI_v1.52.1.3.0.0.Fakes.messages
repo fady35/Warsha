@@ -1,0 +1,33 @@
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c8c16ded79b713a16755811fa3366ccc8: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.AssemblyInfoAttribute: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c7e1c6f86731f3100ca21bfb72d049876: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c6e912bdf7a58708b069ea25404504294: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for Bunifu.Framework.License: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c428e89577e89f58a58fc2fde420083e7: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c7889c3f0fcf40645bc9d93ab509688cd: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c012ec9b4c5098d1a47ba8a58fb418421: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.ca69b6c5d674421eb1a4fb74a4c608169: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c9a7660eb4f1955bfac20883ac830e0c2: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.ca1acfc97a0155736143ebd35f669b641: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for Bunifu.Framework.Lib.Elipse: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.c8dee849dc4dfaa2d5b16c76d7ae541a1: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for Bunifu.Framework.Lib.HardwareFingerprint: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for Bunifu.Framework.Lib.identity: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for Bunifu.Framework.Lib.RestAPI: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.cbf96b6fe53b71fee0b1cb69eb4a6c147: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for BunifuAnimatorNS.Flags: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate stub for A.cb43c9eed1abe78b60f398501c8ca157a: Type is sealed.
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c8c16ded79b713a16755811fa3366ccc8: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.AssemblyInfoAttribute: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c7e1c6f86731f3100ca21bfb72d049876: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c6e912bdf7a58708b069ea25404504294: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c428e89577e89f58a58fc2fde420083e7: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c7889c3f0fcf40645bc9d93ab509688cd: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c012ec9b4c5098d1a47ba8a58fb418421: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.ca69b6c5d674421eb1a4fb74a4c608169: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c9a7660eb4f1955bfac20883ac830e0c2: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.ca1acfc97a0155736143ebd35f669b641: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.c8dee849dc4dfaa2d5b16c76d7ae541a1: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for BunifuAnimatorNS.BunifuTransition+QueueItem: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.cbf96b6fe53b71fee0b1cb69eb4a6c147: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
+D:\WARSHA FINAL\WARSHA\WindowsFormsApp1\Fakes\Bunifu_UI_v1.52.fakes : warning : Cannot generate shim for A.cb43c9eed1abe78b60f398501c8ca157a: Type is not visible to exported or assembly(Bunifu_UI_v1.52.1.3.0.0.Fakes).
